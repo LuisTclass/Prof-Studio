@@ -48,11 +48,11 @@ if (isMobile) {
   buttonContainer.style.alignItems = 'center';
 
   buttons.forEach((button) => {
-    button.style.width = '80%';
+    button.style.width = '100%';
     button.style.marginBottom = '1rem';
   });
 
   inputContainers.forEach((inputContainer) => {
-    inputContainer.style.width = '80%';
+    inputContainer.style.width = '100%';
   });
 }
