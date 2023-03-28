@@ -43,8 +43,8 @@ if (isMobile) {
   const buttons = document.querySelectorAll('button');
   const inputContainers = document.querySelectorAll('.input-container');
   
-  buttonContainer.style.display = 'flex';
-  buttonContainer.style.flexDirection = 'column';
+  buttonContainer.style.display = 'center';
+  buttonContainer.style.flexDirection = 'center';
   buttonContainer.style.alignItems = 'center';
 
   buttons.forEach((button) => {
