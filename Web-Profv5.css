@@ -34,7 +34,7 @@ body {
     border-radius: 0.25rem;
     border: 2px solid #cbd5e0;
     background-color: #edf2f7;
-    width: 25%;
+    width: 100%;
     margin-bottom: 0.5rem;
   }
   
@@ -72,7 +72,7 @@ body {
     }
     
     input {
-      width: 80%;
+      width: 100%;
     }
     
     button {
